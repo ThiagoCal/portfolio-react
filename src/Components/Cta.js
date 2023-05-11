@@ -12,8 +12,8 @@ export default function Cta() {
         }}
       >
         <img src={Ctaimg} alt="decorative-cta" />
-        <div className="flex justify-between mt-4 mr-10 px-4 text-xl  ">
-          <ul className="flex">
+        <div className="flex nav justify-between mt-4 mr-10 px-4 text-xl ">
+          <ul className="flex nav">
             <li>
               <a
                 href="#"
