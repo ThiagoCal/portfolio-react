@@ -59,4 +59,7 @@ code {
   .nav{
     flex-direction: column;
   }
+  .cta-img{
+    width: 60%;
+  }
 }

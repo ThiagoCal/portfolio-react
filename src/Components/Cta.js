@@ -12,8 +12,9 @@ export default function Cta() {
       >
         <img
           src={Ctaimg}
-          style={{ height: "270px", width: "300px" }}
+          style={{ height: "270px", width: "280px" }}
           alt="decorative-cta"
+          className="cta-img"
         />
         <div className="flex nav justify-between mt-4 mr-10 px-4 text-xl ">
           <ul className="flex nav">
