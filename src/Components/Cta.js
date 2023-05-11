@@ -7,11 +7,10 @@ export default function Cta() {
         className="flex w-full justify-between"
         style={{
           backgroundColor: "#1886B4",
-          // backgroundPositionY: "75%",
-          height: "275px",
+          height: "270px",
         }}
       >
-        <img src={Ctaimg} alt="decorative-cta" />
+        <img src={Ctaimg} style={{ height: "270px" }} alt="decorative-cta" />
         <div className="flex nav justify-between mt-4 mr-10 px-4 text-xl ">
           <ul className="flex nav">
             <li>
@@ -37,33 +36,5 @@ export default function Cta() {
       </div>
       <div className="flex-1"></div>
     </section>
-    // <section className="mb-20 flex flex-col w-full">
-    //   <div
-    //     className="relative flex align-stretch flex-row-reverse justify-end overflow-hidden bg-no-repeat bg-cover bg-bottom"
-    //     style={{
-    //       backgroundColor: "#1886B4",
-    //       backgroundPositionY: "75%",
-    //       height: "300px",
-    //     }}
-    //   >
-    //     {/* flex-wrap: wrap; align-content: stretch; flex-direction: row-reverse;
-    //     justify-content: flex-end; */}
-    //     <div className="flex-grow-0">
-    //       <ul className="flex gap-4">
-    //         <li>CV</li>
-    //         <li>Contact</li>
-    //       </ul>
-    //     </div>
-    //     <img
-    //       className="block rounded-lg"
-    //       src={Ctaimg}
-    //       style={{
-    //         // marginTop: "00px",
-    //         height: "300px",
-    //         backdropFilter: "blur(30px)",
-    //       }}
-    //     />
-    //   </div>
-    // </section>
   );
 }
