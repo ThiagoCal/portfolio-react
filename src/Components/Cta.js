@@ -10,7 +10,11 @@ export default function Cta() {
           height: "270px",
         }}
       >
-        <img src={Ctaimg} style={{ height: "270px" }} alt="decorative-cta" />
+        <img
+          src={Ctaimg}
+          style={{ height: "270px", width: "300px" }}
+          alt="decorative-cta"
+        />
         <div className="flex nav justify-between mt-4 mr-10 px-4 text-xl ">
           <ul className="flex nav">
             <li>
