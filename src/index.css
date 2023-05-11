@@ -20,9 +20,13 @@ code {
     monospace;
 }
 
+.banner, .projects{
+ max-width: 1080px;
+}
 
 .img-projects{
   max-width: auto;
+  height: 220px;
   max-height: 220px;
 }
 
@@ -41,4 +45,12 @@ code {
 
 .project-title{
   color: #1886B4;
+}
+
+.bg-contact{
+  background-color: #ffffff;
+opacity: 0.8;
+background-image:  radial-gradient(#1886B4 0.5px, transparent 0.5px), radial-gradient(#1886B4 0.5px, #ffffff 0.5px);
+background-size: 20px 20px;
+background-position: 0 0,10px 10px;
 }
