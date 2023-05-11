@@ -60,6 +60,9 @@ code {
     flex-direction: column;
   }
   .cta-img{
-    width: 60%;
+    height: 60%;
+  }
+  .cta-div{
+    height: 60%;
   }
 }

@@ -4,7 +4,7 @@ export default function Cta() {
   return (
     <section className="flex mb-2 w-full">
       <div
-        className="flex w-full justify-between"
+        className="flex w-full justify-between cta-div"
         style={{
           backgroundColor: "#1886B4",
           height: "270px",
