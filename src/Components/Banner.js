@@ -17,7 +17,7 @@ export default function Banner() {
           </p>
           <div className="flex mt-8">
             <span
-              href="#"
+              href="https://drive.google.com/file/d/1m1KXk868mK4dOdyunbpnQITFRF4T46xo/view"
               target="_blank"
               rel="noopener noreferrer"
               className="px-4 py-2 mr-4 text-white uppercase bg-pink-500 border-2 transform transition duration-500 border-transparent rounded-lg text-md hover:bg-pink-400"

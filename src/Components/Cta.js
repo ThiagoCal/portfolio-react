@@ -16,7 +16,9 @@ export default function Cta() {
           <ul className="flex nav">
             <li>
               <a
-                href="#"
+                href="https://drive.google.com/file/d/1m1KXk868mK4dOdyunbpnQITFRF4T46xo/view"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="mx-3 text-white font-semibold hover:underline underline-offset-4 hover:text-pink-500"
               >
                 My CV
