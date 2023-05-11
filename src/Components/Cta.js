@@ -8,7 +8,7 @@ export default function Cta() {
         style={{
           backgroundColor: "#1886B4",
           // backgroundPositionY: "75%",
-          height: "300px",
+          height: "275px",
         }}
       >
         <img src={Ctaimg} alt="decorative-cta" />
