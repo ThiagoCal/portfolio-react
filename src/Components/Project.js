@@ -62,7 +62,7 @@ export default function Project() {
       github: "https://github.com/ThiagoCal/omdb-api",
     },
     {
-      name: "Boat race app",
+      name: "Boat race game",
       description: `Experience the thrill of the high seas with our exciting boat racing game! 
       Bet on your favorite boat and watch as it speeds through the water, with the chance to win big and earn coins.`,
       tech: "Javascript, HTML, CSS",

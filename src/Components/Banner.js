@@ -10,17 +10,17 @@ export default function Banner() {
             Welcome
           </h1>
           <p className="text-sm text-gray-700 sm:text-base dark:text-white mt-4">
-            My name is Thiago Kimelblat, I'm a full-stack developer based in Tel
+            My name is Thiago Kimelblat, I'm a full stack developer based in Tel
             Aviv, Israel. I have developed many types of full-stack projects
             over a year and a half. I'm very passionate about coding and project
             management.
           </p>
           <div className="flex mt-8">
             <a
-              href="https://drive.google.com/file/d/1m1KXk868mK4dOdyunbpnQITFRF4T46xo/view"
+              href="https://drive.google.com/file/d/1m1KXk868mK4dOdyunbpnQITFRF4T46xo/view?"
               target="_blank"
               rel="noopener noreferrer"
-              className="px-4 py-2 mr-4 text-white uppercase bg-pink-500 border-2 transform transition duration-500 border-transparent rounded-lg text-md hover:bg-pink-400"
+              className="px-4 py-2 mr-4 text-white uppercase cursor-pointer bg-pink-500 border-2 transform transition duration-500 border-transparent rounded-lg text-md hover:bg-pink-400"
             >
               My CV
             </a>
@@ -28,7 +28,7 @@ export default function Banner() {
               href="https://github.com/ThiagoCal"
               target="_blank"
               rel="noopener noreferrer"
-              className="px-4 py-2 text-pink-500 uppercase border border-pink-500 transform transition duration-500 rounded-lg cursor-pointer dark:text-white hover:bg-mag hover:text-white text-md"
+              className="px-4 py-2 text-pink-500 uppercase cursor-pointer border border-pink-500 transform transition duration-500 rounded-lg cursor-pointer dark:text-white hover:bg-mag hover:text-white text-md"
             >
               GitHub
             </a>
