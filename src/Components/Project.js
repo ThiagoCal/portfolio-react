@@ -29,6 +29,14 @@ export default function Project() {
     //   github: "https://google.com",
     // },
     {
+      name: "Here is my pet",
+      description: `Here's my pet is an app that helps pet owners find their beloved companions for free with QR code.`,
+      tech: "Rails, Ruby on Rails, PostgreSQL, ServiceWorkers, PWA, WebSocket, Stimulus, Heroku, and APIs",
+      image: Hereismypet,
+      url: "",
+      github: "https://github.com/magedeungaro/heres-my-pet",
+    },
+    {
       name: "TK Weather App",
       description: `TK Weather app is a an app that you can check the weather forecast of the searched 
       city and you can save all the cities of your interest in the favorites.`,
@@ -36,14 +44,6 @@ export default function Project() {
       image: WeatherApp,
       url: "https://tk-weather-app.vercel.app/",
       github: "https://github.com/ThiagoCal/weather-app",
-    },
-    {
-      name: "Here is my pet",
-      description: `Here's my pet is an app that helps pet owners find their beloved companions for free with QR code.`,
-      tech: "Rails, Ruby on Rails, PostgreSQL, ServiceWorkers, PWA, WebSocket, Stimulus, Heroku, and APIs",
-      image: Hereismypet,
-      url: "",
-      github: "https://github.com/magedeungaro/heres-my-pet",
     },
     {
       name: "My Wedding Website",
