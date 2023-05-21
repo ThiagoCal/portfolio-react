@@ -15,6 +15,84 @@ export default function Banner() {
             over a year and a half. I'm very passionate about coding and project
             management.
           </p>
+          <br />
+          <div className="mb-2">
+            <h2>Tech Skills:</h2>
+          </div>
+          <div className="flex">
+            <img
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+              alt="react"
+              width={"40px"}
+            />
+            <img
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"
+              alt="nodejs"
+              width={"40px"}
+            />
+            <img
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg"
+              alt="rails"
+              width={"40px"}
+            />
+            <img
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+              alt="javascript"
+              width={"40px"}
+            />
+            <img
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg"
+              alt="ruby"
+              width={"40px"}
+            />
+            <img
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
+              alt="redux"
+              width={"40px"}
+            />
+            <img
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"
+              alt="firebase"
+              width={"40px"}
+            />
+          </div>
+          <div className="flex mt-2">
+            <img
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"
+              alt="postgres"
+              width={"40px"}
+            />
+            <img
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"
+              alt="html"
+              width={"40px"}
+            />
+            <img
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"
+              alt="css"
+              width={"40px"}
+            />
+            <img
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+              alt="tailwind"
+              width={"40px"}
+            />
+            <img
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+              alt="git"
+              width={"40px"}
+            />
+            <img
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg"
+              alt="heroku"
+              width={"40px"}
+            />
+            <img
+              src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+              alt="postman"
+              width={"40px"}
+            />
+          </div>
           <div className="flex mt-8">
             <a
               href="https://drive.google.com/file/d/1m1KXk868mK4dOdyunbpnQITFRF4T46xo/view?"
